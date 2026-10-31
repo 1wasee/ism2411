@@ -1,19 +1,14 @@
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
-.venv/
-venv/
-env/
-
-# Environment variables
+*.pyc
+*.pyo
 .env
+*.egg-info/
 
-# Mac OS
+# OS
 .DS_Store
-
-# Windows
 Thumbs.db
-Desktop.ini
+
+# Editors
+.vscode/
+.idea/
